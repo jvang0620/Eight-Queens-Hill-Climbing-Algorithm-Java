@@ -49,11 +49,16 @@ This program was created from the ground up, drawing inspiration from various so
 
 - **Board Visualization**: The printBoard() method displays the current state of the board, facilitating visualization of queen placements.
 
-### Usage:
+### Getting Started:
 
-1. **Compile**: Compile the Java source code using `javac Main.java`.
-2. **Run**: Execute the compiled program with `java Main`.
-3. **Output**: The program will display the progress of the solution process, including the current state, heuristic values, and solution details.
+1. Clone the repository to your local machine with one of the follow:
+
+   HTTPS: <pre><code>git clone https://github.com/jvang0620/Eight-Queens-Hill-Climbing-Algorithm-Java</code></pre>
+   SSH: <pre><code>git clone https://github.com/jvang0620/Eight-Queens-Hill-Climbing-Algorithm-Java</code></pre>
+
+2. **Compile**: Compile the Java source code using `javac Main.java`.
+3. **Run**: Execute the compiled program with `java Main`.
+4. **Output**: The program will display the progress of the solution process, including the current state, heuristic values, and solution details.
 
 ### Developed Using:
 
