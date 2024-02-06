@@ -1,7 +1,9 @@
 # N-queens-problem
 
-// Source: https://rosettacode.org/wiki/N-queens_problem#Java
-// Source: https://www.geeksforgeeks.org/n-queen-problem-local-search-using-hill-climbing-with-random-neighbour/#
+#### Source:
+
+    https://rosettacode.org/wiki/N-queens_problem#Java
+    https://www.geeksforgeeks.org/n-queen-problem-local-search-using-hill-climbing-with-random-neighbour/#
 
 ### Build/Complied
 
