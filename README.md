@@ -1,12 +1,12 @@
-# N-Queens Problem Solver
+# Eight-Queens Problem Solver
 
 ### Overview:
 
-This Java program implements a solution to the classic N-Queens problem using a hill climbing algorithm. The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.
+This program implements a solution to the classic N-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.
 
 This program was created from the ground up, drawing inspiration from various sources.
 
-### Examples of Program Output Screenshots
+### Example of Program Output Screenshots
 
 ![Examples Of Program](/imgs/img_1a.PNG)
 ![Examples Of Program](/imgs/img_1b.PNG)
@@ -19,7 +19,7 @@ This program was created from the ground up, drawing inspiration from various so
 
 - <u>"Neighbors found with lower h"</u> refers to the number of neighboring states (or configurations of the N-Queens board) where the heuristic value is lower than the heuristic value of the current state. In the context of the N-Queens problem solved by a hill climbing algorithm, "lower h" indicates states that are closer to the goal state, as they have fewer conflicts among the queens.
 
-- When the program prints <u>"Neighbors found with lower h"</u> it's indicating how many neighboring states have been found where the heuristic value (h) is lower, suggesting potential moves that might lead to an improvement in the current state. This information helps in deciding whether to make a move to a neighbor or perform a random restart if no better neighbors are found.
+- When the program prints <u>"Neighbors found with lower h,"</u> it's indicating how many neighboring states have been found where the heuristic value (h) is lower, suggesting potential moves that might lead to an improvement in the current state. This information helps in deciding whether to make a move to a neighbor or perform a random restart if no better neighbors are found.
 
 ##### 'State changes' and 'Restart' Meaning:
 
