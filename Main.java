@@ -1,4 +1,5 @@
 import java.util.Random;
+//adding comments
 
 public class Main {
     public static void main(String[] args) {
@@ -160,10 +161,12 @@ public class Main {
 
     /**
      * Prints the current state of the N-Queens board.
-     * The method receives a state array representing the positions of the queens on the board,
+     * The method receives a state array representing the positions of the queens on
+     * the board,
      * where each element represents the row index of a queen in a column.
      * 
-     * @param state The state array representing the positions of the queens on the board.
+     * @param state The state array representing the positions of the queens on the
+     *              board.
      */
     private static void printBoard(int[] state) {
         int[][] board = new int[8][8]; // Initialize a 2D array to represent the board
